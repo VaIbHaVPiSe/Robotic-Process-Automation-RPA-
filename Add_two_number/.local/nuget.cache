@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "7YRlUSDD3FmIvH8wTOUaa4EbepVNHrudX3kcmpRskC3liXTpmix/l11O26ntRFRli32X0QSLeA2DEITfr7Q7aw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\My\\Documents\\UiPath\\Add_two_number\\.local\\",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "filePath": "C:\\Users\\My\\Documents\\UiPath\\Add_two_number\\.local",
+      "message": "Failed to download package 'System.Linq.Expressions.4.3.0' from 'https://pkgs.dev.azure.com/uipath/5b98d55c-1b14-4a03-893f-7a59746f1246/_packaging/1c781268-d43d-45ab-9dfc-0151a1c740b7/nuget/v3/flat2/system.linq.expressions/4.3.0/system.linq.expressions.4.3.0.nupkg'.\r\nThe download of 'https://pkgs.dev.azure.com/uipath/5b98d55c-1b14-4a03-893f-7a59746f1246/_packaging/1c781268-d43d-45ab-9dfc-0151a1c740b7/nuget/v3/flat2/system.linq.expressions/4.3.0/system.linq.expressions.4.3.0.nupkg' timed out because no data was received for 60000ms.\r\n  Exception of type 'System.TimeoutException' was thrown."
+    },
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "filePath": "C:\\Users\\My\\Documents\\UiPath\\Add_two_number\\.local",
+      "message": "Failed to download package 'System.Drawing.Common.5.0.2' from 'https://pkgs.dev.azure.com/uipath/5b98d55c-1b14-4a03-893f-7a59746f1246/_packaging/1c781268-d43d-45ab-9dfc-0151a1c740b7/nuget/v3/flat2/system.drawing.common/5.0.2/system.drawing.common.5.0.2.nupkg'.\r\nThe download of 'https://pkgs.dev.azure.com/uipath/5b98d55c-1b14-4a03-893f-7a59746f1246/_packaging/1c781268-d43d-45ab-9dfc-0151a1c740b7/nuget/v3/flat2/system.drawing.common/5.0.2/system.drawing.common.5.0.2.nupkg' timed out because no data was received for 60000ms.\r\n  Exception of type 'System.TimeoutException' was thrown."
+    },
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "filePath": "C:\\Users\\My\\Documents\\UiPath\\Add_two_number\\.local",
+      "message": "Failed to download package 'System.Security.Principal.Windows.4.7.0' from 'https://pkgs.dev.azure.com/uipath/5b98d55c-1b14-4a03-893f-7a59746f1246/_packaging/1c781268-d43d-45ab-9dfc-0151a1c740b7/nuget/v3/flat2/system.security.principal.windows/4.7.0/system.security.principal.windows.4.7.0.nupkg'.\r\nThe download of 'https://pkgs.dev.azure.com/uipath/5b98d55c-1b14-4a03-893f-7a59746f1246/_packaging/1c781268-d43d-45ab-9dfc-0151a1c740b7/nuget/v3/flat2/system.security.principal.windows/4.7.0/system.security.principal.windows.4.7.0.nupkg' timed out because no data was received for 60000ms.\r\n  Exception of type 'System.TimeoutException' was thrown."
+    },
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "filePath": "C:\\Users\\My\\Documents\\UiPath\\Add_two_number\\.local",
+      "message": "Failed to download package 'System.Security.Cryptography.Pkcs.6.0.0' from 'https://pkgs.dev.azure.com/uipath/5b98d55c-1b14-4a03-893f-7a59746f1246/_packaging/1c781268-d43d-45ab-9dfc-0151a1c740b7/nuget/v3/flat2/system.security.cryptography.pkcs/6.0.0/system.security.cryptography.pkcs.6.0.0.nupkg'.\r\nThe download of 'https://pkgs.dev.azure.com/uipath/5b98d55c-1b14-4a03-893f-7a59746f1246/_packaging/1c781268-d43d-45ab-9dfc-0151a1c740b7/nuget/v3/flat2/system.security.cryptography.pkcs/6.0.0/system.security.cryptography.pkcs.6.0.0.nupkg' timed out because no data was received for 60000ms.\r\n  Exception of type 'System.TimeoutException' was thrown."
+    }
+  ]
+}
